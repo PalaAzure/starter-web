@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
  HI I am using master branch
@@ -5,3 +6,7 @@
 Develop branch changes is working master
 Hi I am using touch  command to commit
 
+=======
+Develop branch changes is working master
+Hi I am using touch  command to commit
+>>>>>>> develop
