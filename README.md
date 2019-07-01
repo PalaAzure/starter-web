@@ -4,5 +4,5 @@
 
 ## NOT satifisfy withthe TRAINING:wq
 ## Are you ok with the changes:!
-:wq!
 
+# I am ok with this
