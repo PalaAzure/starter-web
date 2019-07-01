@@ -1,1 +1,2 @@
- Hi I am using touch  command to commit
+ Hi I am using touch  command to commi
+ HI I am using master branch
