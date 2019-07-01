@@ -5,4 +5,5 @@
 ## NOT satifisfy withthe TRAINING:wq
 ## Are you ok with the changes:!
 
-# I am ok with this
+# I am ok with thi
+# git comparrisons
