@@ -2,4 +2,7 @@
 
 ## r u  ok with  this TRAINING
 
-## NOT satifisfy withthe TRAINING:wq!
+## NOT satifisfy withthe TRAINING:wq
+## Are you ok with the changes:!
+:wq!
+
